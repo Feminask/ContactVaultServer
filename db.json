@@ -129,6 +129,16 @@
       "company": "SMR college",
       "title": "Student",
       "groupId": "5"
+    },
+    {
+      "name": "Nimmy",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9igKhCH-e4T7JCMevq2KL5Nf_8VmiENYcA&s",
+      "mobile": "9876654670",
+      "email": "Nimmy76@gmail.com",
+      "company": "HRC Technologies",
+      "title": "Supervisor",
+      "groupId": "2",
+      "id": "iomsc4k"
     }
   ],
   "groups": [
